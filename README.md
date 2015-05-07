@@ -34,5 +34,5 @@ just type this commands when the prompt says ```Please type a command```
 ROADMAP
 =======
 
-[] We need to test this!!!!
-[] Can we gather more valuable info about the data??
+- We need to test this!
+- What else can we extract from data?
